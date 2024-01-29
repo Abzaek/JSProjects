@@ -1,1 +1,1 @@
-The In This Repo Is Originally Made By John Smilga (Https://Johnsmilga.Com/). All The Changes Are Made Inside Setup Folder Of Each Project. The Credit For All Other Written Codes Goes To Him.  
+All the files in this repo were originally created by John Smilga (Https://Johnsmilga.Com/). All the Changes are made inside setup folder of each project. the credit for all other written codes goes to him.  
